@@ -1,6 +1,7 @@
       body {
         width: 100vw;
         height: 100vh;
+            margin: 0;
         background-color: #fAf9f5;
         font-family: 'Montserrat', sans-serif;
       }
